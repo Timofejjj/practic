@@ -1,7 +1,7 @@
 {
-    "Field": 23,
-    "id": 1,
+    "area": 23,
+    "position": 1,
     "length": 8,
     "mass": 16,
-    "width": 9
+    "high": 9
 }
